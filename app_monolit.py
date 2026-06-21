@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-MODEL_PATH = "model_pipeline.pkl"
+MODEL_PATH = "model.pkl"
 
 
 class CreditScoreModel:
